@@ -1,0 +1,10 @@
+{
+    "name": "etna/phpinfo",
+    "authors": [
+        {
+            "name": "ETNA",
+            "email": "dev@etna-learning.fr"
+        }
+    ],
+    "require": {}
+}
